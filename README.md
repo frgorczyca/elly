@@ -1,2 +1,2 @@
-# elly
+# Elly
 Simple ELO league website
